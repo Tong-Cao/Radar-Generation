@@ -24,21 +24,21 @@
 
 - **LFM信号生成结果**：
 
-![LFM信号生成](C:\Users\mqw\Desktop\RadarGeneration\GAN\GAN_LFM.png)
+![LFM信号生成](./GAN/GAN_LFM.png)
 
 - **噪声调幅干扰信号信号生成结果**：
 
-![LFM信号生成](C:\Users\mqw\Desktop\RadarGeneration\GAN\GAN_AM_noise.png)
+![LFM信号生成](./GAN/GAN_AM_noise.png)
 
 **噪声调频干扰信号信号生成结果**：
 
-![LFM信号生成](C:\Users\mqw\Desktop\RadarGeneration\GAN\GAN_FM_noise.png)
+![LFM信号生成](./GAN/GAN_FM_noise.png)
 
 
 
 **间歇采样转发干扰信号信号生成结果**：
 
-![LFM信号生成](C:\Users\mqw\Desktop\RadarGeneration\GAN\GAN_ISRJ.png)
+![LFM信号生成](./GAN/GAN_ISRJ.png)
 
 
 
@@ -56,21 +56,21 @@
 
 - **LFM信号生成结果**：
 
-![LFM信号生成](C:\Users\mqw\Desktop\RadarGeneration\Diffusion\DDPM_LFM.png)
+![LFM信号生成](./Diffusion/DDPM_LFM.png)
 
 - **噪声调幅干扰信号信号生成结果**：
 
-![LFM信号生成](C:\Users\mqw\Desktop\RadarGeneration\Diffusion\DDPM_AM_noise.png)
+![LFM信号生成](./Diffusion/DDPM_AM_noise.png)
 
 **噪声调频干扰信号信号生成结果**：
 
-![LFM信号生成](C:\Users\mqw\Desktop\RadarGeneration\Diffusion\DDPM_FM_noise.png)
+![LFM信号生成](./Diffusion/DDPM_FM_noise.png)
 
 
 
 **间歇采样转发干扰信号信号生成结果**：
 
-![LFM信号生成](C:\Users\mqw\Desktop\RadarGeneration\Diffusion\DDPM_ISRJ.png)
+![LFM信号生成](./Diffusion/DDPM_ISRJ.png)
 
 ## Evaluation
 
